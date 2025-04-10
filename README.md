@@ -1,0 +1,2 @@
+# MajineCord
+なんでしょう？
